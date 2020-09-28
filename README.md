@@ -6,7 +6,8 @@ This is how I discovered software development—my next chapter in life.
 
 Dev work has been a natural fit for me. It uses many of the creative and problem-solving skills that I developed by engineering and producing audio and music for so many years. And I love the satisfaction I feel in planning and building things with code. Currently I'm enrolled in the Full Stack Web Developer program at Nashville Software School and plan to graduate in late 2020. 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/peteastewart/) | [Twitter](https://twitter.com/petestewart) | [petestew@gmail.com](mailto:petestew@gmail.com)
+- 🔗 : [LinkedIn](https://www.linkedin.com/in/peteastewart/) | [Twitter](https://twitter.com/petestewart) | [petestewart.codes](http://petestewart.codes) 
+- 📫 : [petestew@gmail.com](mailto:petestew@gmail.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petestewart72" />
