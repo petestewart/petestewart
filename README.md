@@ -1,2 +1,2 @@
-- 🔗 : [LinkedIn](https://www.linkedin.com/in/peteastewart/) | [Twitter](https://twitter.com/petestewart) | [petestewart.dev](http://petestewart.dev) 
+- 🔗 : [LinkedIn](https://www.linkedin.com/in/peteastewart/) | [Twitter](https://twitter.com/petestewart)
 - 📫 : [petestew@gmail.com](mailto:petestew@gmail.com)
